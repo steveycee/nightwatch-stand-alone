@@ -10,11 +10,9 @@ I know when I first broke out into using automation to improve my workflows I fo
 
 I try to do everything inside VSCode which is my current IDE of choice available [here](https://code.visualstudio.com/). To create a folder you can do it simply by adding it in your operating system, then open VSCode, go to open folder and open the folder you want to use. To use the console/terminal available in VSCode you should be able to go the the top menu bar (file, edit etc) click terminal and then new terminal. As you learn more you might create files and folders through the console/terminal and do clever and time saving things but in the mean time don't worry too much. If you have any feedback on making this guide better then please drop me a message on **[Twitter](https://twitter.com/steveycee?lang=en)** 🐦
 
-_If you feel more confident and you just want to start with this as a boiler plate then by all means `clone the repo` and go `npm i` in your console_
+_If you feel more confident and you just want to start with this as a boiler plate then by all means **clone the repo** all the modules you need are included in the `package.json` if you feel comfortable with that then just go to your command line and type `npm i` to install all the node modules. If not and you want to code along yourself then this initial set up section will hopefuly help._
 
 ## Initial set up
-
-_If you've cloned the repo then all the modules you need are included in the `package.json` if you feel comfortable with that then just go to your command line and type `npm i` to install all the node modules. If not and you want to code along yourself then this initial set up section will hopefuly help._
 
 - **Install node** from [here](https://nodejs.org/en/download/) (latest stable should be fine for most users).
 - Once installed **go to your command line and type node -v** if you get a version number then its installed properly
@@ -28,8 +26,6 @@ This is pretty standard and reusable for alot of your projects.
 ## Setting up Nightwatch.js
 
 ### Installing
-
-_If you cloned the repo and ran `npm i` then you dont need to do this stage_
 
 - **Install Nightwatch** by running this:
 
@@ -176,6 +172,6 @@ OK. 2 assertions passed. (472ms)
 
 Note it says 2 assertions passed, but you passed it 3 things to do? Going to a URL does not qualify as an assertion because you aren't checking anything. The final 2 things though are checks that can pass or fail and as such are picked up as assertions.
 
-## Acknowledgements
+## Acknowledgements and useful resourcs
 
 I used the following [YouTube video from Coding with Dom](https://www.youtube.com/watch?v=Q8jIlG6WXvI) as a basis for this example but decided to write a guide below with a bit of information that I know I'd have liked earlier in my career. If you want to get it straight from Nightwatch then click here for their [getting started guide](https://nightwatchjs.org/gettingstarted/) but keep in mind they assume a little bit of knowledge that I don't below, this guide is intended for people who are newer to Software Testing/Quality Assurance/Development to get a bit of a leg up.
