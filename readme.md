@@ -10,7 +10,7 @@ I know when I first broke out into using automation to improve my workflows I fo
 
 I try to do everything inside VSCode which is my current IDE of choice available [here](https://code.visualstudio.com/). To create a folder you can do it simply by adding it in your operating system, then open VSCode, go to open folder and open the folder you want to use. To use the console/terminal available in VSCode you should be able to go the the top menu bar (file, edit etc) click terminal and then new terminal. As you learn more you might create files and folders through the console/terminal and do clever and time saving things but in the mean time don't worry too much. If you have any feedback on making this guide better then please drop me a message on **[Twitter](https://twitter.com/steveycee?lang=en)** 🐦
 
-_If you dont and you just want to start with this as a boiler plate then by all means `clone the repo` and go `npm i` in your console_
+_If you feel more confident and you just want to start with this as a boiler plate then by all means `clone the repo` and go `npm i` in your console_
 
 ## Initial set up
 
