@@ -172,6 +172,6 @@ OK. 2 assertions passed. (472ms)
 
 Note it says 2 assertions passed, but you passed it 3 things to do? Going to a URL does not qualify as an assertion because you aren't checking anything. The final 2 things though are checks that can pass or fail and as such are picked up as assertions.
 
-## Acknowledgements and useful resourcs
+## Acknowledgements and useful resources
 
 I used the following [YouTube video from Coding with Dom](https://www.youtube.com/watch?v=Q8jIlG6WXvI) as a basis for this example but decided to write a guide below with a bit of information that I know I'd have liked earlier in my career. If you want to get it straight from Nightwatch then click here for their [getting started guide](https://nightwatchjs.org/gettingstarted/) but keep in mind they assume a little bit of knowledge that I don't below, this guide is intended for people who are newer to Software Testing/Quality Assurance/Development to get a bit of a leg up.
